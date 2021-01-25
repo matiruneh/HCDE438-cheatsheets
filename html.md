@@ -14,6 +14,7 @@
 
 **some useful elements:**
 
+
 - `<div>`: empty box with no default style
 - `<img>`: image (it needs a "src" attribute)
 - `<a>`: link (needs an "href" attribute)
