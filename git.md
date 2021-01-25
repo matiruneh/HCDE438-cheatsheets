@@ -14,5 +14,5 @@ git push -u origin main
 ```
 git add .
 git commit -m "Add existing file"
-git push origin your-branch
+git push origin main
 ```
